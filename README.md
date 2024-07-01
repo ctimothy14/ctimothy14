@@ -6,7 +6,7 @@ A Data Analyst with a passion for problem solving and discovering insights throu
 A list of a few of my skills:
 - Querying data and perform data analysis using SQL.
 - Create and automate reports using SAS and excel.
-- Developing Dashboards on Tableau and Excel.
+- Developing Dashboards in Tableau and Excel.
 
 ### 📚 Projects
 This is where I showcase my skills which I have learned through my [projects](https://github.com/ctimothy14/Porfolio-Guide).
